@@ -1,4 +1,4 @@
-# grunt-contributors [![Build Status](https://travis-ci.org/crudo/grunt-contributors.svg)](https://travis-ci.org/crudo/grunt-contributors)
+# grunt-contributors [![Build Status](https://travis-ci.org/crudo/grunt-contributors.svg?branch=master)](https://travis-ci.org/crudo/grunt-contributors)
 >Save contributors into package.json.
 
 ## Getting Started
