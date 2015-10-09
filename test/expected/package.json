@@ -11,6 +11,10 @@
 		{
 			"name": "Martin Cermak",
 			"email": "crudo@crudo.cz"
+		},
+		{
+			"name": "greenkeeperio-bot",
+			"email": "support@greenkeeper.io"
 		}
 	]
 }
