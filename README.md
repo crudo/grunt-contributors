@@ -1,4 +1,6 @@
 # grunt-contributors [![Build Status](https://travis-ci.org/crudo/grunt-contributors.svg?branch=master)](https://travis-ci.org/crudo/grunt-contributors)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/crudo/grunt-contributors.svg)](https://greenkeeper.io/)
 >Save contributors into package.json.
 
 ## Getting Started
